@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
 
-You can use the [editor on GitHub](https://github.com/phibroptix/phibroptix.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I don't have much here atm, but if you come back once I've decided to get around to changing/updating this page, who knows what it'll look like!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+Everyone's favorite topic is always themselves, it is quite easy for others to grow weary so I'll try and keep this short.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/phibroptix/phibroptix.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- I am a budding C++ programmer
+- I have experience in linux and networking
+- I have come into some free time and would love to get involved in helping however I can
+- In this process I may require a bit of hand-holding, but I expect I will grow out of it quickly and be able to be a productive member of society at a point nearer than most would believe
